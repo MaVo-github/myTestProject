@@ -5,5 +5,4 @@ Class Test
       int bla2;
     public:
       int bla3;
-      int bla4;
 };
