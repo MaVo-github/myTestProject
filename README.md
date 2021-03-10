@@ -1,3 +1,3 @@
 # myTestProject
 Testing purpose
-Ttoto je pridana novinka
+Ttoto je pridana novinka update
