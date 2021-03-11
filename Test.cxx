@@ -2,7 +2,7 @@ Class Test
 {
     private:
       int bla;
-      int bla2;
+      int bla4;
     public:
       int bla3;
 };
